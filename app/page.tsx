@@ -176,7 +176,7 @@ export default function Portfolio() {
     {
       title: " Country Viewer Application",
       description:"A user-friendly application for presenting country data, enabling users to access detailed information easily.",
-      image: "https://user-images.githubusercontent.com/92815435/218094062-352f46a9-68e5-4524-a2a6-4dd2f96ceb25.png?height=400&width=600",
+      image: "https://visualsource.github.io/screenshots/country-viewer.png?height=400&width=600",
       tags: ["HTML", "CSS", "JavaScript", "Angular", "REST APIs"],
       links: {
         github: "https://github.com/asefshaik/country-viewer",
