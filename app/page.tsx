@@ -176,7 +176,7 @@ export default function Portfolio() {
     {
       title: " Country Viewer Application",
       description:"A user-friendly application for presenting country data, enabling users to access detailed information easily.",
-      image: "https://user-images.githubusercontent.com/92815435/218094062-352f46a9-68e5-4524-a2a6-4dd2f96ceb25.png?height=400&width=600",
+      image: "https://visualsource.github.io/screenshots/country-viewer.png?height=400&width=600",
       tags: ["HTML", "CSS", "JavaScript", "Angular", "REST APIs"],
       links: {
         github: "https://github.com/asefshaik/country-viewer",
@@ -245,7 +245,7 @@ export default function Portfolio() {
                 transition={{ duration: 0.5 }}
                 className="relative w-10 h-10 rounded-full bg-gradient-to-br from-cyan-500 to-purple-600 flex items-center justify-center"
               >
-                <span className="text-xl font-bold">J</span>
+                <span className="text-xl font-bold">A</span>
                 <div className="absolute inset-0 rounded-full border border-white/20 animate-pulse" />
               </motion.div>
               <motion.span
@@ -369,7 +369,7 @@ export default function Portfolio() {
                 <div className="flex justify-between items-center p-4 border-b border-white/10">
                   <Link href="/" className="flex items-center gap-2">
                     <div className="relative w-10 h-10 rounded-full bg-gradient-to-br from-cyan-500 to-purple-600 flex items-center justify-center">
-                      <span className="text-xl font-bold">J</span>
+                      <span className="text-xl font-bold">A</span>
                     </div>
                     <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-purple-600">
                       Asef.dev
@@ -726,7 +726,7 @@ export default function Portfolio() {
                     Who I Am
                   </h2>
                   <p className="max-w-[900px] text-white/60 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                    I'm a passionate Full Stack Web Developer who loves to build modern webapplications.
+                    I'm a passionate Full Stack Web Developer who loves to build modern web applications.
                   </p>
                 </div>
               </motion.div>
