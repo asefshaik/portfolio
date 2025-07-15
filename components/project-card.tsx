@@ -18,7 +18,6 @@ interface ProjectCardProps {
   tags: string[]
   links: {
     github: string
-    demo: string
   }
   color: string
   index: number

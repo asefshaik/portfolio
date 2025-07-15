@@ -213,7 +213,7 @@ export default function Portfolio() {
       degree: "Bachelor of Technology - Computer Science and Engineering",
       institution: "Lovely Professional University",
       period: "Since 2022",
-      achievements: ["CGPA: 7.53"],
+      achievements: ["CGPA: 7.70"],
       color: "from-red-500 to-rose-500",
     },
     {
@@ -514,7 +514,7 @@ export default function Portfolio() {
                       onMouseEnter={() => setCursorHovering(true)}
                       onMouseLeave={() => setCursorHovering(false)}
                     >
-                      <Link href="https://drive.google.com/file/d/1_OPun_7RFbWt6KsEHjZTTvPNzAI2Wsav/view?usp=sharing" download>
+                      <Link href="https://drive.google.com/file/d/1xNmSrSqVZ2ksrmEuy5-Odt8e9y770D3H/view?usp=sharing" download>
                         <span className="relative z-10 flex items-center gap-1">
                           <Download className="h-4 w-4" />
                           Download CV
@@ -1085,7 +1085,7 @@ export default function Portfolio() {
             <div className="flex flex-col gap-2">
               <Link href="/" className="flex items-center gap-2">
                 <div className="relative w-8 h-8 rounded-full bg-gradient-to-br from-cyan-500 to-purple-600 flex items-center justify-center">
-                  <span className="text-lg font-bold">J</span>
+                  <span className="text-lg font-bold">A</span>
                 </div>
                 <span className="text-lg font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-purple-600">
                   Shaik Asef
