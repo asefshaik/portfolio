@@ -213,7 +213,7 @@ export default function Portfolio() {
       degree: "Bachelor of Technology - Computer Science and Engineering",
       institution: "Lovely Professional University",
       period: "Since 2022",
-      achievements: ["CGPA: 7.70"],
+      achievements: ["CGPA: 7.85"],
       color: "from-red-500 to-rose-500",
     },
     {
